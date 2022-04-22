@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\obj\Debug\net5.0\contaLetras.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\obj\Debug\net5.0\contaLetras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\obj\Debug\net5.0\contaLetras.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\obj\Debug\net5.0\contaLetras.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\obj\Debug\net5.0\contaLetras.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\bin\Debug\net5.0\contaLetras.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\bin\Debug\net5.0\contaLetras.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\bin\Debug\net5.0\contaLetras.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\bin\Debug\net5.0\contaLetras.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\bin\Debug\net5.0\contaLetras.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\bin\Debug\net5.0\contaLetras.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\obj\Debug\net5.0\contaLetras.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\obj\Debug\net5.0\refint\contaLetras.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\obj\Debug\net5.0\contaLetras.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\obj\Debug\net5.0\contaLetras.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\contaLetras\obj\Debug\net5.0\ref\contaLetras.dll

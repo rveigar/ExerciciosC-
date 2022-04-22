@@ -1,0 +1,2 @@
+dotnet new console -f net5.0 -n contaLetras
+
