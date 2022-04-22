@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\bin\Debug\net5.0\NumeroDriven.exe
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\bin\Debug\net5.0\NumeroDriven.deps.json
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\bin\Debug\net5.0\NumeroDriven.runtimeconfig.json
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\bin\Debug\net5.0\NumeroDriven.runtimeconfig.dev.json
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\bin\Debug\net5.0\NumeroDriven.dll
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\bin\Debug\net5.0\NumeroDriven.pdb
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\obj\Debug\net5.0\NumeroDriven.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\obj\Debug\net5.0\NumeroDriven.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\obj\Debug\net5.0\NumeroDriven.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\obj\Debug\net5.0\NumeroDriven.AssemblyInfo.cs
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\obj\Debug\net5.0\NumeroDriven.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\obj\Debug\net5.0\NumeroDriven.dll
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\obj\Debug\net5.0\refint\NumeroDriven.dll
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\obj\Debug\net5.0\NumeroDriven.pdb
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\obj\Debug\net5.0\NumeroDriven.genruntimeconfig.cache
+D:\Downloads\Estudos\C sharp #\MeuTutorial\NumeroDriven\obj\Debug\net5.0\ref\NumeroDriven.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgj/gS3OrIQzAg6cVK3ezget40qfPbZPu4ObEkazx23sHN/b++AD1rsFDLBN05zvHaTnR7rl/OOFiBNn5cUd0A==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Estudos\\C sharp #\\MeuTutorial\\NumeroDriven\\NumeroDriven.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rveig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

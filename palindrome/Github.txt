@@ -1,0 +1,17 @@
+
+No Github criar um repositório e copiar a URL 
+https://github.com/rveigar/palindromeC-.git
+
+
+
+
+No repositório local
+====================
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/rveigar/palindromeC-.git
+git remote -v 
+git status
+git push -u origin main
+
