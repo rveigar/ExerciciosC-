@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\obj\Debug\net5.0\encriptarPalavra.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\obj\Debug\net5.0\encriptarPalavra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\obj\Debug\net5.0\encriptarPalavra.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\obj\Debug\net5.0\encriptarPalavra.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\obj\Debug\net5.0\encriptarPalavra.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\bin\Debug\net5.0\encriptarPalavra.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\bin\Debug\net5.0\encriptarPalavra.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\bin\Debug\net5.0\encriptarPalavra.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\bin\Debug\net5.0\encriptarPalavra.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\bin\Debug\net5.0\encriptarPalavra.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\bin\Debug\net5.0\encriptarPalavra.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\obj\Debug\net5.0\encriptarPalavra.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\obj\Debug\net5.0\refint\encriptarPalavra.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\obj\Debug\net5.0\encriptarPalavra.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\obj\Debug\net5.0\encriptarPalavra.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\encriptarPalavra\obj\Debug\net5.0\ref\encriptarPalavra.dll
