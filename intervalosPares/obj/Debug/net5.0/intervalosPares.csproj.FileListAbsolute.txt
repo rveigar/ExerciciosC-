@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\bin\Debug\net5.0\intervalosPares.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\bin\Debug\net5.0\intervalosPares.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\bin\Debug\net5.0\intervalosPares.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\bin\Debug\net5.0\intervalosPares.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\bin\Debug\net5.0\intervalosPares.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\bin\Debug\net5.0\intervalosPares.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\obj\Debug\net5.0\intervalosPares.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\obj\Debug\net5.0\intervalosPares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\obj\Debug\net5.0\intervalosPares.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\obj\Debug\net5.0\intervalosPares.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\obj\Debug\net5.0\intervalosPares.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\obj\Debug\net5.0\intervalosPares.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\obj\Debug\net5.0\refint\intervalosPares.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\obj\Debug\net5.0\intervalosPares.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\obj\Debug\net5.0\intervalosPares.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\intervalosPares\obj\Debug\net5.0\ref\intervalosPares.dll

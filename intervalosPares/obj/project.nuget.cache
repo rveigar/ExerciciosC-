@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hlv81y0BZXV3+rHTPlgMRs0G9pBi/cZMncnZPyDRpt3dO39F7Fk0uQCaXI6QLgq6ij4WAIbCBWK/2q5HNaiS2g==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Estudos\\Csharp#\\ExerciciosC#\\intervalosPares\\intervalosPares.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rveig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
