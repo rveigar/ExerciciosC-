@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ZUs28WJ5xRHtiG+QJe7Wm01377rv5YcGOQa0oprcImafYNizK20ACuTvUNO3LgFwyPB9TMr70eHjJrSZBHg6A==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Estudos\\Csharp#\\ExerciciosC#\\letrasRepetidas\\letrasRepetidas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rveig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

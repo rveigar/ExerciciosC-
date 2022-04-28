@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\obj\Debug\net5.0\letrasRepetidas.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\obj\Debug\net5.0\letrasRepetidas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\obj\Debug\net5.0\letrasRepetidas.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\obj\Debug\net5.0\letrasRepetidas.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\obj\Debug\net5.0\letrasRepetidas.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\bin\Debug\net5.0\letrasRepetidas.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\bin\Debug\net5.0\letrasRepetidas.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\bin\Debug\net5.0\letrasRepetidas.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\bin\Debug\net5.0\letrasRepetidas.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\bin\Debug\net5.0\letrasRepetidas.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\bin\Debug\net5.0\letrasRepetidas.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\obj\Debug\net5.0\letrasRepetidas.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\obj\Debug\net5.0\refint\letrasRepetidas.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\obj\Debug\net5.0\letrasRepetidas.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\obj\Debug\net5.0\letrasRepetidas.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\letrasRepetidas\obj\Debug\net5.0\ref\letrasRepetidas.dll
