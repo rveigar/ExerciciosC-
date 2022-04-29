@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\bin\Debug\net5.0\removeDuplicateCharacters.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\bin\Debug\net5.0\removeDuplicateCharacters.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\bin\Debug\net5.0\removeDuplicateCharacters.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\bin\Debug\net5.0\removeDuplicateCharacters.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\bin\Debug\net5.0\removeDuplicateCharacters.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\bin\Debug\net5.0\removeDuplicateCharacters.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\obj\Debug\net5.0\removeDuplicateCharacters.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\obj\Debug\net5.0\removeDuplicateCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\obj\Debug\net5.0\removeDuplicateCharacters.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\obj\Debug\net5.0\removeDuplicateCharacters.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\obj\Debug\net5.0\removeDuplicateCharacters.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\obj\Debug\net5.0\removeDuplicateCharacters.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\obj\Debug\net5.0\refint\removeDuplicateCharacters.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\obj\Debug\net5.0\removeDuplicateCharacters.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\obj\Debug\net5.0\removeDuplicateCharacters.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\removeDuplicateCharacters\obj\Debug\net5.0\ref\removeDuplicateCharacters.dll

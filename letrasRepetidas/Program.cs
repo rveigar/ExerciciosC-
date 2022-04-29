@@ -20,11 +20,11 @@ namespace letrasRepetidas
         {
             // acrescentar using System.Collections.Generic para poder usar List;
             List<char> saida2 = new List<char>();
-            string s5 = "karrrancak";
+            //string s5 = "karrrancak";
+            string s5 = texto;
             foreach (char c in s5)
             {
                 s5=s5.Remove(0,1);
-
                 System.Console.WriteLine($"valor de c= {c}    valor de s5= {s5}   ");
                 if (s5.Contains(c))
                 {
@@ -33,7 +33,6 @@ namespace letrasRepetidas
                     {
                         saida2.Add(c);
                     }
-
                 }
                 System.Console.WriteLine($"                valor de saida2= " + String.Join(',',saida2));
                 
