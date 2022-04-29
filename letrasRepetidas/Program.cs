@@ -11,33 +11,36 @@ namespace letrasRepetidas
         {
             //Console.WriteLine("Hello World!");
             //letrasRepetidas2("socorro");
-            teste2("socorro");
+            System.Console.WriteLine("Digite um texto: ");
+            string texto = Console.ReadLine();
+            letraDuplicada(texto);
         }
 
 
 
-	 public static void teste2(string texto)
+	 public static void letraDuplicada(string texto)
         {
             // acrescentar using System.Collections.Generic para poder usar List;
             List<char> saida2 = new List<char>();
             //string s5 = "karrrancak";
-            string s5 = texto;
-            foreach (char c in s5)
+            //string s5 = texto;
+            foreach (char c in texto)
             {
-                s5=s5.Remove(0,1);
-                System.Console.WriteLine($"valor de c= {c}    valor de s5= {s5}   ");
-                if (s5.Contains(c))
+                texto=texto.Remove(0,1);
+                //System.Console.WriteLine($"valor de c= {c}    valor de texto= {texto}   ");
+                if (texto.Contains(c))
                 {
-                    System.Console.WriteLine($"        existe letra {c} duplicada");
+                    //System.Console.WriteLine($"        existe letra {c} duplicada");
                     if (!saida2.Contains(c))
                     {
                         saida2.Add(c);
                     }
                 }
-                System.Console.WriteLine($"                valor de saida2= " + String.Join(',',saida2));
+                
                 
 
             }
+            System.Console.WriteLine($"========= valor de saida2= " + String.Join(',',saida2));
 
         }
     }
