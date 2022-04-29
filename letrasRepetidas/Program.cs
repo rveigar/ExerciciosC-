@@ -36,9 +36,6 @@ namespace letrasRepetidas
                         saida2.Add(c);
                     }
                 }
-                
-                
-
             }
             System.Console.WriteLine($"========= valor de saida2= " + String.Join(',',saida2));
 

@@ -57,6 +57,7 @@ namespace avancarDiasSemana
             if ((novoDia + quantidade) < 7)
             {
                 Console.WriteLine($"novoDia {novoDia}");
+                novoDia = novoDia + quantidade;
             } else {
                 novoDia = (novoDia+quantidade)% 7;
                 //Console.WriteLine($"novoDia {novoDia}");

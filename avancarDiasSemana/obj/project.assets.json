@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Downloads\\Estudos\\Csharp#\\Exercicios\\avancarDiasSemana\\avancarDiasSemana.csproj",
+      "projectUniqueName": "D:\\Downloads\\Estudos\\Csharp#\\ExerciciosC#\\avancarDiasSemana\\avancarDiasSemana.csproj",
       "projectName": "avancarDiasSemana",
-      "projectPath": "D:\\Downloads\\Estudos\\Csharp#\\Exercicios\\avancarDiasSemana\\avancarDiasSemana.csproj",
+      "projectPath": "D:\\Downloads\\Estudos\\Csharp#\\ExerciciosC#\\avancarDiasSemana\\avancarDiasSemana.csproj",
       "packagesPath": "C:\\Users\\rveig\\.nuget\\packages\\",
-      "outputPath": "D:\\Downloads\\Estudos\\Csharp#\\Exercicios\\avancarDiasSemana\\obj\\",
+      "outputPath": "D:\\Downloads\\Estudos\\Csharp#\\ExerciciosC#\\avancarDiasSemana\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rveig\\AppData\\Roaming\\NuGet\\NuGet.Config",

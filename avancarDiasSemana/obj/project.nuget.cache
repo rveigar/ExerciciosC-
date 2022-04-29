@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRhtQMmehE6o/lzyWx9XqU4Wl3Gx96oVHxTX6Ge7u0weQoJJo4unI7WPHND0f67VrFIfYeW5wZyHVNTiHtCwLg==",
+  "dgSpecHash": "qmr+X06nCR4SSfL0fwPEBPcGNLs1F1hT8HkhO7P08cvsgdcY7RBgo4N9V7x02I4YkGNSz+UwJLo3TFgMBWfVjQ==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Estudos\\Csharp#\\Exercicios\\avancarDiasSemana\\avancarDiasSemana.csproj",
+  "projectFilePath": "D:\\Downloads\\Estudos\\Csharp#\\ExerciciosC#\\avancarDiasSemana\\avancarDiasSemana.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rveig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
   ],
