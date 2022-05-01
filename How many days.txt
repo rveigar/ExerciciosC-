@@ -1,0 +1,22 @@
+How many days
+Given two dates - first from the past and second as present date, write a method that returns numbers of days between these two dates.
+Expected input and output
+HowManyDays((2006, 1, 31), Now) ? 4652
+
+using System;
+
+namespace CSharpExercises.Exercises.Miscellaneous
+{
+    class HowManyDaysTask
+    {
+        public static int HowManyDays(DateTime dateInThePast, DateTime dateNow)
+        {
+            return (dateNow - dateInThePast).Days;
+        }
+
+        public static void Main()
+        {
+            Console.WriteLine(HowManyDays(new DateTime(2005, 12, 8), DateTime.Now)); //4706
+        }
+    }
+}

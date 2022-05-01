@@ -1,0 +1,32 @@
+Trim
+Você pode remover espaços em branco com facilidade de ambas as extremidades de uma cadeia de caracteres usando o método String.Trim, conforme é mostrado no exemplo a seguir.
+
+C#
+
+
+string MyString = " Big   ";
+Console.WriteLine("Hello{0}World!", MyString);
+string TrimString = MyString.Trim();
+Console.WriteLine("Hello{0}World!", TrimString);
+//       The example displays the following output:
+//             Hello Big   World!
+//             HelloBigWorld!
+Você também poderá remover os caracteres que especificar em uma matriz de caracteres do início e do final de uma cadeia de caracteres. O exemplo a seguir remove caracteres de espaço em branco, pontos e asteriscos.
+
+C#
+
+
+using System;
+
+public class Example
+{
+   public static void Main()
+   {
+      String header = "* A Short String. *";
+      Console.WriteLine(header);
+      Console.WriteLine(header.Trim( new Char[] { ' ', '*', '.' } ));
+   }
+}
+// The example displays the following output:
+//       * A Short String. *
+//       A Short String

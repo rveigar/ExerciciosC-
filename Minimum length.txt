@@ -1,0 +1,26 @@
+Minimum length
+Write a query that returns words at least 5 characters long and make them uppercase.
+Expected input and output
+"computer", "usb" ? "COMPUTER"
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace CSharpExercises.Exercises.LINQ
+{
+    class MinimumLengthTask
+    {
+        public static void Main()
+        {
+            List<string> animals = new List<string> { "zebra", "elephant", "cat", "dog", "rhino", "bat" };
+
+            var selectedAnimals = animals.Where(s => s.Length >= 5).Select(x => x.ToUpper());
+
+            foreach (var animal in selectedAnimals)
+            {
+                Console.Write($"{animal}, "); // ZEBRA, ELEPHANT, RHINO,
+            }
+        }
+    }
+}

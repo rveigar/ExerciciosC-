@@ -1,0 +1,27 @@
+Fibonacci number
+Given a non-negative integer, write a method that returns n-th element of Fibonacci sequence.
+Expected input and output
+FibonacciNumber(3) ? 2
+FibonacciNumber(7) ? 13
+
+using System;
+
+namespace CSharpExercises.Exercises.Recursion
+{
+    class FibonacciNumberTask
+    {
+        static int FibonacciNumber(int num)
+        {
+            return num <= 1 ? num : FibonacciNumber(num - 2) + FibonacciNumber(num - 1);
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine(FibonacciNumber(10));  // 55
+            Console.WriteLine(FibonacciNumber(0));   // 0
+            Console.WriteLine(FibonacciNumber(20));  // 6765
+            Console.WriteLine(FibonacciNumber(13));  // 233
+        }
+    }
+}
+

@@ -1,0 +1,30 @@
+Numbers multiplication
+Given two integers a and b (a <= b) as range, write a method that returns multiplication of numbers from given range.
+Expected input and output
+NumbersMultiplication(5, 7) ? 210
+NumbersMultiplication(50, 50) ? 50
+
+using System;
+
+namespace CSharpExercises.Exercises.Recursion
+{
+    class NumbersMultiplicationTask
+    {
+        static int NumbersMultiplication(int from, int to)
+        {
+            while (from == to)
+            {
+                return from;
+            }
+
+            return from * NumbersMultiplication(from + 1, to);
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine($"{NumbersMultiplication(1, 5)}");     // 120
+            Console.WriteLine($"{NumbersMultiplication(-27, -22)}"); // 213127200
+            Console.WriteLine($"{NumbersMultiplication(44, 44)}");   // 44  
+        }
+    }
+}

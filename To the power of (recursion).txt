@@ -1,0 +1,25 @@
+To the power of (recursion)
+Given two integers, write a method that returns first number raised to the power of second number.
+Expected input and output
+ToThePowerOfRecursion(2, 3) ? 8
+ToThePowerOfRecursion(5, 2) ? 25
+
+using System;
+
+namespace CSharpExercises.Exercises.Recursion
+{
+    class ToThePowerOfRecursionTask
+    {
+        static int ToThePowerOfRecursion(int b, int exp)
+        {
+            return exp == 0 ? 1 : exp > 1 ? b * ToThePowerOfRecursion(b, exp - 1) : b;
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine(ToThePowerOfRecursion(10, 0)); // 1
+            Console.WriteLine(ToThePowerOfRecursion(3, 7));  // 2187
+            Console.WriteLine(ToThePowerOfRecursion(2, 10)); // 1024
+        }
+    }
+}

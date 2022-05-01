@@ -1,0 +1,46 @@
+Longest strictly increasing sequence
+Given an array of integers, write a method that returns value of the longest strictly increasing sequence of numbers.
+Expected input and output
+LongestStrictlyIncreasingSequence([0, 3, 4, 5, 6, 4, 9]) ? 3
+LongestStrictlyIncreasingSequence([7, 7, 7, 7, 7]) ? 0
+
+using System;
+
+namespace CSharpExercises.Exercises.Loops
+{
+    class LongestStrictlyIncreasingSequenceTask
+    {
+        static int LongestStrictlyIncreasingSequence(int[] array)
+        {
+            int tempLongest = 0;
+            int longest = 0;
+
+            for (int i = 0; i < array.Length - 1; i++)
+            {
+                if (array[i + 1] > array[i])
+                {
+                    tempLongest++;
+                }
+                else
+                {
+                    tempLongest = 0;
+                }
+
+                if (tempLongest > longest)
+                {
+                    longest = tempLongest;
+                }
+            }
+
+            return longest;
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine(LongestStrictlyIncreasingSequence(new int[] { 4, 7, 2, 6, 4, 5, 6, 7, 8, 0, 7, 1, 2, 3 })); // 4
+            Console.WriteLine(LongestStrictlyIncreasingSequence(new int[] { 1, 0, 1, 0, 1, 0, 1, 0, 1, 0 })); // 1
+            Console.WriteLine(LongestStrictlyIncreasingSequence(new int[] { 2, 3, 4, 5, 6, 7, 8 })); // 6
+            Console.WriteLine(LongestStrictlyIncreasingSequence(new int[] { 1, 1, 1, 1, 1, })); // 0
+        }
+    }
+}

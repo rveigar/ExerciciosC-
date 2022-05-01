@@ -1,0 +1,29 @@
+Unique values
+Given a non-empty list of strings, return a list that contains only unique (non-duplicate) strings.
+Expected input and output
+["abc", "xyz", "klm", "xyz", "abc", "abc", "rst"] ? ["klm", "rst"]
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace CSharpExercises.Exercises.LINQ
+{
+    class UniqueValuesTask
+    {
+        public static void Main()
+        {
+            var values = new List<string> { "Hi", "Meow", "Hello", "Meow", "Hi!", "Meow", "Hi", "Bye" };
+            var uniqueValues = values
+                    .GroupBy(x => x)
+                    .Where(x => x.Count() == 1)
+                    .Select(x => x.Key)
+                    .ToList();
+
+            foreach (var value in uniqueValues)
+            {
+                Console.WriteLine($"{value}"); //Hello Hi! Bye
+            }
+        }
+    }
+}

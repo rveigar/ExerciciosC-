@@ -1,0 +1,183 @@
+string[] array = { "cat", "dog", "perl" };
+
+// Use Array.Exists in different ways.
+bool a = Array.Exists(array, element => element == "perl");
+bool c = Array.Exists(array, element => element.StartsWith("d"));
+bool d = Array.Exists(array, element => element.StartsWith("x"));
+
+------------------
+
+You can use Array.IndexOf() - note that it will return -1 if the element has not been found and you have to handle this case.
+int index = Array.IndexOf(stringArray, value);
+
+------------------
+
+string[] Selection = {"First", "Second", "Third", "Fourth"};
+string Valid = "Third";    // You can change this to a Console.ReadLine() to 
+    //use user input 
+int temp = Array.IndexOf(Selection, Valid); // it gets the index of 'Valid', 
+                // in our case it's "Third"
+            if (temp > -1)
+                Console.WriteLine("Valid selection");
+            }
+            else
+            {
+                Console.WriteLine("Not a valid selection");
+            }
+------------------
+ public static bool InArray(this string str, string[] values)
+    {
+        if (Array.IndexOf(values, str) > -1)
+            return true;
+
+        return false;
+    }
+   
+   
+How to call it:
+
+string[] stringArray = { "text1", "text2", "text3", "text4" };
+string value = "text3";
+if(value.InArray(stringArray))
+{
+  //do something
+}
+
+------------------
+
+ string [] arr = {"One","Two","Three"};
+       var target = "One";
+       var results = Array.FindAll(arr, s => s.Equals(target));
+
+------------------
+
+char myChar = 'x';
+string myString = "xyz";
+
+int count = myString.Count(s => s == myChar);
+
+------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Array_Add
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] arr = { "One", "Two", "Three" };
+            string newElement = "New Element";
+            List<string> list = new List<string>(arr.ToList());
+            list.Add(newElement);
+            arr = list.ToArray();
+            foreach(var e in arr)
+            {
+                Console.WriteLine(e);
+            }
+        }
+    }
+}
+
+Output:
+
+One
+Two
+Three
+New Element
+
+
+------------------
+
+// Sort a string
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+Array.Sort(cars);
+foreach (string i in cars)
+{
+  Console.WriteLine(i);
+}
+ 
+// Sort an int
+int[] myNumbers = {5, 1, 8, 9};
+Array.Sort(myNumbers);
+foreach (int i in myNumbers)
+{
+  Console.WriteLine(i);
+}
+
+
+
+------------------
+
+How to check if a value exists in an array ?
+The following program shows how to find an element from an Array.
+
+string stringToCheck = "GHI";
+string[] stringArray = { "ABC", "DEF", "GHI", "JKL" };
+foreach (string x in stringArray)
+{
+    if (x.Equals (stringToCheck))
+    {
+        MessageBox.Show("Find the string ..." + x);
+    }
+}
+
+
+------------------
+
+How to Add Elements To an Array in C#?
+
+public class AddElementToArray
+    {
+        public static void Main()
+        {
+            // Declaration
+            int[] array = { 1, 2, 3, 4, 5, 6, 7, 9, 9, 10 };
+            // Item to be added
+            int addItem = 11;
+
+            // Append Item
+            int[] result = array.Append(addItem);
+
+            // Print elements
+            Console.WriteLine(String.Join(",", result));
+
+            Console.ReadKey();
+        }
+    }
+
+------------------
+
+
+
+------------------
+
+
+------------------
+
+
+------------------
+
+
+------------------
+
+
+------------------
+
+
+------------------
+
+
+------------------
+
+
+------------------
+
+
+
+------------------
+
+
+
+------------------

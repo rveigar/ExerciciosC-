@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EilWywqLhcTOUa9IBm/1eH04JJeXaUtTuwE3dE41vJ6bL8AOhn+nteRDtJ7y3/TnrB4mqYlg4BZhRTOUaxlPtw==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Estudos\\Csharp#\\ExerciciosC#\\numbersFromRange\\numbersFromRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rveig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

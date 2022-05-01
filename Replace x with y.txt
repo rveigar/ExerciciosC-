@@ -1,0 +1,36 @@
+Replace x with y
+Write a method that replaces every letter 'y' in the string with 'x'. Assume that string contains only lower case letters.
+Expected input and output
+ReplaceXWithY("yellow") ? "xellow"
+ReplaceXWithY("mushroom") ? "mushroom"
+
+using System;
+
+namespace CSharpExercises.Exercises.Library_functions
+{
+    class ReplaceXWithYTask
+    {
+        public static string ReplaceXWithY(string word)
+        {
+            string[] words = word.Split(' ');
+
+            for (int i = 0; i < words.Length; i++)
+            {
+                if (words[i].Contains("y"))
+                {
+                    words[i] = words[i].Replace("y", "x");
+                }
+            }
+
+            return String.Join(" ", words);
+        }
+
+        public static void Main()
+        {
+            Console.WriteLine(ReplaceXWithY("yyy"));                                   // xxx
+            Console.WriteLine(ReplaceXWithY("strawberry youghurt"));                   // strawberrx xoughurt
+            Console.WriteLine(ReplaceXWithY("tym ryhosx oifg 6 t6 ypeg ergh"));        // txm rxhosx oifg 6 t6 xpeg ergh
+            Console.WriteLine(ReplaceXWithY(""));                                      // /empty string/
+        }
+    }
+}

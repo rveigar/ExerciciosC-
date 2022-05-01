@@ -1,0 +1,25 @@
+Replace substring
+Write a query that replaces 'ea' substring with astersik (*) in given list of words.
+Expected input and output
+"learn", "current", "deal" ?  "l*rn", "current", "d*l"
+
+using System;
+using System.Linq;
+
+namespace CSharpExercises.Exercises.LINQ
+{
+    class ReplaceSubstringTask
+    {
+        public static void Main()
+        {
+            var words = new[] { "near", "speak", "tonight", "weapon", "customer", "deal", "lawyer" };
+
+            var modifiedWords = words.Select(w => w.Contains("ea") ? w.Replace("ea", "*") : w);
+
+            foreach(var word in modifiedWords)
+            {
+                Console.Write(word + " "); // n*r sp*k tonight w*pon customer d*l lawyer
+            }
+        }
+    }
+}

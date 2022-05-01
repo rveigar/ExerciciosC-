@@ -1,0 +1,26 @@
+Digits multiplication
+Given a positive integer, write a method that returns multiplication of all digits in the number.
+Expected input and output
+DigitsMultiplication(456) ? 120
+DigitsMultiplication(123) ? 6
+Click here to hide example solution
+
+using System;
+
+namespace CSharpExercises.Exercises.Recursion
+{
+    class DigitsMultiplicationTask
+    {
+        static int DigitsMultiplication(int num)
+        {
+            return num > 10 ? num % 10 * DigitsMultiplication(num / 10) : num % 10;
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine(DigitsMultiplication(1234));       // 24
+            Console.WriteLine(DigitsMultiplication(94632));      // 1296
+            Console.WriteLine(DigitsMultiplication(222222222));  // 512
+        }
+    }
+}

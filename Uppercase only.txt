@@ -1,0 +1,25 @@
+Uppercase only
+Write a query that returns only uppercase words from string.
+Expected input and output
+"DDD example CQRS Event Sourcing" ? DDD, CQRS
+
+using System;
+using System.Linq;
+
+namespace CSharpExercises.Exercises.LINQ
+{
+    class UppercaseOnlyTask
+    {
+        public static void Main()
+        {
+            string word = "THIS is UPPERCASE string LOL";
+
+            var uppercaseOnly = word.Split(' ').Where(x => string.Equals(x, x.ToUpper()));
+
+            foreach (var u in uppercaseOnly)
+            {
+                Console.Write($"{u}, "); // THIS, UPPERCASE, LOL,
+            }
+        }
+    }
+}

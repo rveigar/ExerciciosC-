@@ -1,0 +1,26 @@
+Numbers from range
+Given an array of integers, write a query that returns list of numbers greater than 30 and less than 100.
+Expected input and output
+[67, 92, 153, 15] ? 67, 92
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace CSharpExercises.Exercises.LINQ
+{
+    class NumbersFromRangeTask
+    {
+        public static void Main()
+        {
+            List<int> Numbers = new List<int> { 30, 54, 3, 14, 25, 82, 1, 100, 23, 95 };
+
+            var SelectedNumbers = Numbers.Where(x => x > 30).Where(x => x < 100);
+
+            foreach (var s in SelectedNumbers)
+            {
+                Console.Write($"{s} "); // 54 82 95
+            }
+        }
+    }
+}

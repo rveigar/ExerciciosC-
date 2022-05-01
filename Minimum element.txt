@@ -1,0 +1,30 @@
+Minimum element
+Given an array of integers and array's length, write a method that returns its minimum element.
+Expected input and output
+ MinimumElement([8, 5, 9], 3) ? 5
+ MinimumElement([-2, -9, 2, -3, 1, 0], 6) ? -9
+ 
+ using System;
+ 
+ namespace CSharpExercises.Exercises.Recursion
+ {
+     class MinimumElementTask
+     {
+         static int MinimumElement(int[] arr, int size)
+         {
+             if (size == 1)
+             {
+                 return arr[0];
+             }
+ 
+             return arr[size - 1] < MinimumElement(arr, size - 1) ? arr[size - 1] : MinimumElement(arr, size - 1);
+         }
+ 
+         static void Main(string[] args)
+         {
+             Console.WriteLine(MinimumElement(new int[] { 7, 2, 9, 5, 4 }, 5));                  // 2
+             Console.WriteLine(MinimumElement(new int[] { -45, -6, 39, 96, -20, 0, -100 }, 7));  // -100
+             Console.WriteLine(MinimumElement(new int[] { 830, 905, 999, 831, 920, 900 }, 6));   // 830
+         }
+     }
+}

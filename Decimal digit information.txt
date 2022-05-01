@@ -1,0 +1,29 @@
+Decimal digit information
+Given a string, write a method that checks if contains decimal digit and if yes returns its value and position.
+Expected input and output
+DecimalDigitInformation("This is 9") ? "Digit 9 at position 8"
+DecimalDigitInformation("ABCdef") ? "No digit found!"
+
+using System;
+using System.Text.RegularExpressions;
+
+namespace CSharpExercises.Exercises.Regular_expressions
+{
+    class DecimalDigitInformationTask
+    {
+        public static string DecimalDigitInformation(string word)
+        {
+            Regex regex = new Regex(@"\d");
+            Match match = regex.Match(word);
+
+            return match.Success ? $"Digit {match.Value} at position {match.Index}" : $"No digit found!";
+        }
+
+        public static void Main()
+        {
+            Console.WriteLine(DecimalDigitInformation("The 7 is the digit!"));    // Digit 7 at position 4
+            Console.WriteLine(DecimalDigitInformation("Hamster and lion"));       // No digit found!
+            Console.WriteLine(DecimalDigitInformation("1st"));                    // Digit 1 at position 0
+        }
+    }
+}

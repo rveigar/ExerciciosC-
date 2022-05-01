@@ -1,0 +1,44 @@
+Letters balance
+Given a string, write a method that checks if there are exactly the same letters on the left side and right side of the string. Assume string length is even and letters don't repeat on each side.
+Expected input and output
+LettersBalance("fgvgvf") ? true
+LettersBalance("lampsmpser") ? false
+
+using System;
+
+namespace CSharpExercises.Exercises.Loops
+{
+    class LettersBalanceTask
+    {
+        static bool LettersBalance(string word)
+        {
+            bool isBalanced;
+            for (int i = 0; i < word.Length / 2; i++)
+            {
+                isBalanced = false;
+                for (int j = word.Length - 1; j >= word.Length / 2; j--)
+                {
+                    if (word[i] == word[j])
+                    {
+                        isBalanced = true;
+                    }
+                }
+
+                if (!isBalanced)
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine(LettersBalance("kfdfdk"));           // True
+            Console.WriteLine(LettersBalance("reyjer"));           // False
+            Console.WriteLine(LettersBalance("wkxzcsazsckawx"));   // True
+            Console.WriteLine(LettersBalance("pkmqsdedeskgqm"));   // False
+        }
+    }
+}

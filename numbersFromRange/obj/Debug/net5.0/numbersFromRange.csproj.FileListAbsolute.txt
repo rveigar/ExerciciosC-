@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\bin\Debug\net5.0\numbersFromRange.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\bin\Debug\net5.0\numbersFromRange.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\bin\Debug\net5.0\numbersFromRange.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\bin\Debug\net5.0\numbersFromRange.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\bin\Debug\net5.0\numbersFromRange.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\bin\Debug\net5.0\numbersFromRange.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\obj\Debug\net5.0\numbersFromRange.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\obj\Debug\net5.0\numbersFromRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\obj\Debug\net5.0\numbersFromRange.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\obj\Debug\net5.0\numbersFromRange.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\obj\Debug\net5.0\numbersFromRange.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\obj\Debug\net5.0\numbersFromRange.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\obj\Debug\net5.0\refint\numbersFromRange.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\obj\Debug\net5.0\numbersFromRange.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\obj\Debug\net5.0\numbersFromRange.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\numbersFromRange\obj\Debug\net5.0\ref\numbersFromRange.dll

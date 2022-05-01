@@ -1,0 +1,23 @@
+Days names
+Write a query that returns names of days.
+Expected input and output
+daysNames ? "Sunday Monday Tuesday Wednesday Thursday Friday Saturday"
+
+using System;
+using System.Linq;
+
+namespace CSharpExercises.Exercises.LINQ
+{
+    class DaysNamesTask
+    {
+        public static void Main()
+        {
+            var daysNames = Enum.GetValues(typeof(DayOfWeek)).Cast<DayOfWeek>();
+
+            foreach (var d in daysNames)
+            {
+                Console.Write($"{d} "); // Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+            }
+        }
+    }
+}

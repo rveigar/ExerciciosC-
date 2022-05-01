@@ -1,0 +1,26 @@
+Top 5 numbers
+Write a query that returns top 5 numbers from the list of integers in descending order.
+Expected input and output
+[78, -9, 0, 23, 54,  21, 7, 86]  ? 86 78 54 23 21
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace CSharpExercises.Exercises.LINQ
+{
+    class Top5NumbersTask
+    {
+        public static void Main()
+        {
+            List<int> numbers = new List<int> { 6, 0, 999, 11, 443, 6, 1, 24, 54 };
+
+            var top5 = numbers.OrderByDescending(x => x).Take(5);
+
+            foreach (var number in top5)
+            {
+                Console.Write($"{number} "); // 999 443 54 24 11
+            }
+        }
+    }
+}

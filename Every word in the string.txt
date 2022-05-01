@@ -1,0 +1,31 @@
+Every word in the string
+Given a string, write a method that checks if every word begins with capital letter.
+Expected input and output
+EveryWordInTheString("Use Of Technology") ? true
+EveryWordInTheString("Rocket science") ? false
+
+using System;
+using System.Text.RegularExpressions;
+
+namespace CSharpExercises.Exercises.Regular_expressions
+{
+    class EveryWordInTheStringTask
+    {
+        public static bool EveryWordInTheString(string word)
+        {
+            Regex regex = new Regex(@"^([A-Z]\w*\s*)+\W*$");
+            Match match = regex.Match(word);
+
+            return match.Success;
+        }
+
+        public static void Main()
+        {
+            Console.WriteLine(EveryWordInTheString("I Love You"));                    // True
+            Console.WriteLine(EveryWordInTheString("Greater Than 9"));                // False
+            Console.WriteLine(EveryWordInTheString("Pig And Horse!!!"));              // True
+            Console.WriteLine(EveryWordInTheString("Make   Some      Whitespaces?")); // True
+            Console.WriteLine(EveryWordInTheString("As Fit As a Fiddle."));           // False
+        }
+    }
+}

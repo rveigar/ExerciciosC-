@@ -1,0 +1,30 @@
+Almost only letters
+Given a string, write a method that checks if consists of letters only and ends with period. If string has more than one word, words are separated by space.
+Expected input and output
+AlmostOnlyLetters("She is nice.") ? true
+AlmostOnlyLetters("true 222.") ? false
+
+using System;
+using System.Text.RegularExpressions;
+
+namespace CSharpExercises.Exercises.Regular_expressions
+{
+    class AlmostOnlyLettersTask
+    {
+        public static bool AlmostOnlyLetters(string word)
+        {
+            Regex regex = new Regex(@"^[A-Za-z\s]+\.$");
+            Match match = regex.Match(word);
+
+            return match.Success;
+        }
+
+        public static void Main()
+        {
+            Console.WriteLine(AlmostOnlyLetters("Very hot."));      // True
+            Console.WriteLine(AlmostOnlyLetters("full of hope"));   // False
+            Console.WriteLine(AlmostOnlyLetters(""));               // False
+            Console.WriteLine(AlmostOnlyLetters("short."));         // True
+        }
+    }
+}

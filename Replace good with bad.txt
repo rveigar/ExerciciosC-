@@ -1,0 +1,27 @@
+Replace good with bad
+Given a string, write a method that replaces every word 'good' with 'bad'. Assume that words to be replaced may consist of mixed cases (gOod, baD, etc.).
+Expected input and output
+ReplaceGoodWithBad("gOOd") ? "good"
+ReplaceGoodWithBad("so b@d") ?  "so b@d"
+
+using System;
+using System.Text.RegularExpressions;
+
+namespace CSharpExercises.Exercises.Regular_expressions
+{
+    class ReplaceGoodWithBadTask
+    {
+        public static string ReplaceGoodWithBad(string word)
+        {
+            string output = string.Empty;
+            return output = Regex.Replace(word, @"((G|g)(O|o){2}(D|d))", "bad");
+        }
+
+        public static void Main()
+        {
+            Console.WriteLine(ReplaceGoodWithBad("Very GoOd"));         // Very bad
+            Console.WriteLine(ReplaceGoodWithBad("GooDgOOdGOODgood"));  // badbadbadbad
+            Console.WriteLine(ReplaceGoodWithBad("Not so g00d"));       // Not so g00d
+        }
+    }
+}

@@ -1,0 +1,30 @@
+Check phone number
+Given a phone number as a string, write a method that checks if it is in the format +XX YYY-YYY-YYY.
+Expected input and output
+CheckPhoneNumber("+35 392-022-194") ? true
+CheckPhoneNumber("+958 28492-503") ? false
+
+using System;
+using System.Text.RegularExpressions;
+
+namespace CSharpExercises.Exercises.Regular_expressions
+{
+    class CheckPhoneNumberTask
+    {
+        public static bool CheckPhoneNumber(string phoneNumber)
+        {
+            Regex regex = new Regex(@"^\+\d{2}\s(\d{3}\-){2}(\d{3})");
+            Match match = regex.Match(phoneNumber);
+
+            return match.Success;
+        }
+
+        public static void Main()
+        {
+            Console.WriteLine(CheckPhoneNumber("+48 592-045-990"));    // True
+            Console.WriteLine(CheckPhoneNumber("+999 543-000-305"));   // False
+            Console.WriteLine(CheckPhoneNumber("00 204-145-722"));     // False
+            Console.WriteLine(CheckPhoneNumber("+47 420-053-934"));    // True
+        }
+    }
+}

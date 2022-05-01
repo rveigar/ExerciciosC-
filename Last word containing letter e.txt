@@ -1,0 +1,23 @@
+Last word containing letter "e"
+Given a non-empty list of words, sort it alphabetically and return a word that contains letter 'e'.
+Expected input and output
+["plane", "ferry", "car", "bike"]? "plane"
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace CSharpExercises.Exercises.LINQ
+{
+    class LastWordContainingLetterTask
+    {
+        public static void Main()
+        {
+            var words = new List<string> { "cow", "dog", "elephant", "cat", "rat", "squirrel", "snake", "stork" };
+
+            var word = words.OrderBy(x => x)
+                            .LastOrDefault(w => w.Contains("e"));
+
+            Console.WriteLine($"{word}"); // squirrel
+        }
+    }
