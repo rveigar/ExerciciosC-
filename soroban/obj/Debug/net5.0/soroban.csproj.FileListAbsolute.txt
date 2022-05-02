@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\bin\Debug\net5.0\soroban.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\bin\Debug\net5.0\soroban.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\bin\Debug\net5.0\soroban.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\bin\Debug\net5.0\soroban.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\bin\Debug\net5.0\soroban.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\bin\Debug\net5.0\soroban.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\obj\Debug\net5.0\soroban.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\obj\Debug\net5.0\soroban.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\obj\Debug\net5.0\soroban.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\obj\Debug\net5.0\soroban.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\obj\Debug\net5.0\soroban.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\obj\Debug\net5.0\soroban.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\obj\Debug\net5.0\refint\soroban.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\obj\Debug\net5.0\soroban.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\obj\Debug\net5.0\soroban.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\soroban\obj\Debug\net5.0\ref\soroban.dll

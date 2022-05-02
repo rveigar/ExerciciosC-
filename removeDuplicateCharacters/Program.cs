@@ -22,7 +22,7 @@ namespace removeDuplicateCharacters
                     resultString += inputString[i];
                 }
             }
-            Console.WriteLine(resultString);
+            Console.WriteLine((resultString));
             Console.WriteLine("");
             Console.ReadKey();
 

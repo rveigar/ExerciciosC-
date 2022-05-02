@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4YqJTlqxUEnHVm2aRdBClYwaNYvuonuYokvnqmnssom7mZKR0BfsTLfC0bHTk/z3+QLv5IMvhyKrDEGrzdJ9Q==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Estudos\\Csharp#\\ExerciciosC#\\soroban\\soroban.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rveig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
