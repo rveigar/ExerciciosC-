@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\obj\Debug\net5.0\somaAteMeta.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\obj\Debug\net5.0\somaAteMeta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\obj\Debug\net5.0\somaAteMeta.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\obj\Debug\net5.0\somaAteMeta.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\obj\Debug\net5.0\somaAteMeta.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\bin\Debug\net5.0\somaAteMeta.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\bin\Debug\net5.0\somaAteMeta.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\bin\Debug\net5.0\somaAteMeta.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\bin\Debug\net5.0\somaAteMeta.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\bin\Debug\net5.0\somaAteMeta.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\bin\Debug\net5.0\somaAteMeta.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\obj\Debug\net5.0\somaAteMeta.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\obj\Debug\net5.0\refint\somaAteMeta.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\obj\Debug\net5.0\somaAteMeta.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\obj\Debug\net5.0\somaAteMeta.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\somaAteMeta\obj\Debug\net5.0\ref\somaAteMeta.dll

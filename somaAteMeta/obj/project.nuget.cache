@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7GP2ECAjevHF5L+Fau9VDs39w8Z/Kz2YoaU02QYiofZ+DtCrgZfT/RbHAoDGDnsIYmRUfXAuvFbuEduCdmqeIA==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Estudos\\Csharp#\\ExerciciosC#\\somaAteMeta\\somaAteMeta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rveig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

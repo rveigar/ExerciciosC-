@@ -1,2 +1,21 @@
 dotnet new console -f net5.0 -n contaLetras
 
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc aula57.cs
+
+acrescentar um NovoCaminho num path já existente.
+PATH %path%; NovoCaminho;
+
+Neste treinamento eu pude aprender o framework dotnet 5.0 e também a linguagem C#. Também tivemos uma introdução ao
+Git/Github que facilitou muito a utilização desta ferramenta para versionamento de código e divulgação de portfolio.
+Utilizamos a linguagem C# no modo console e também criamos aplicações Web utilizando o MVC (Model-View-Controller).
+Foi uma jornada de 21 dias onde ganhei muito conhecimento que pude aplicar de modo prático nos exercícios propostos.
+Agradeço muito a ShareRH e a Web Motors por essa oportunidade.
+
+Roberto Veiga
+
+dotnet --list-sdks
+dotnet --list-runtimes
+
+string filePath = @"C:\televisions\sony\bravia.txt"; //  \t não será convertido para TAB
+
+
