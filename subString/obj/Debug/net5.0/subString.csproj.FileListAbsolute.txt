@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\obj\Debug\net5.0\subString.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\obj\Debug\net5.0\subString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\obj\Debug\net5.0\subString.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\obj\Debug\net5.0\subString.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\obj\Debug\net5.0\subString.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\bin\Debug\net5.0\subString.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\bin\Debug\net5.0\subString.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\bin\Debug\net5.0\subString.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\bin\Debug\net5.0\subString.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\bin\Debug\net5.0\subString.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\bin\Debug\net5.0\subString.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\obj\Debug\net5.0\subString.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\obj\Debug\net5.0\refint\subString.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\obj\Debug\net5.0\subString.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\obj\Debug\net5.0\subString.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\subString\obj\Debug\net5.0\ref\subString.dll
