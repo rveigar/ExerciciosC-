@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\bin\Debug\net5.0\testes.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\bin\Debug\net5.0\testes.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\bin\Debug\net5.0\testes.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\bin\Debug\net5.0\testes.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\bin\Debug\net5.0\testes.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\bin\Debug\net5.0\testes.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\obj\Debug\net5.0\testes.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\obj\Debug\net5.0\testes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\obj\Debug\net5.0\testes.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\obj\Debug\net5.0\testes.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\obj\Debug\net5.0\testes.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\obj\Debug\net5.0\testes.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\obj\Debug\net5.0\refint\testes.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\obj\Debug\net5.0\testes.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\obj\Debug\net5.0\testes.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\testes\obj\Debug\net5.0\ref\testes.dll

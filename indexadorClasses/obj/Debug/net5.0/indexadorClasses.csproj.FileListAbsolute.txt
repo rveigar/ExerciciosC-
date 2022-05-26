@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\obj\Debug\net5.0\indexadorClasses.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\obj\Debug\net5.0\indexadorClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\obj\Debug\net5.0\indexadorClasses.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\obj\Debug\net5.0\indexadorClasses.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\obj\Debug\net5.0\indexadorClasses.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\bin\Debug\net5.0\indexadorClasses.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\bin\Debug\net5.0\indexadorClasses.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\bin\Debug\net5.0\indexadorClasses.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\bin\Debug\net5.0\indexadorClasses.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\bin\Debug\net5.0\indexadorClasses.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\bin\Debug\net5.0\indexadorClasses.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\obj\Debug\net5.0\indexadorClasses.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\obj\Debug\net5.0\refint\indexadorClasses.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\obj\Debug\net5.0\indexadorClasses.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\obj\Debug\net5.0\indexadorClasses.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\indexadorClasses\obj\Debug\net5.0\ref\indexadorClasses.dll
