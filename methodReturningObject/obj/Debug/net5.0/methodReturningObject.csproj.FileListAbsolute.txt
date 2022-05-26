@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\obj\Debug\net5.0\methodReturningObject.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\obj\Debug\net5.0\methodReturningObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\obj\Debug\net5.0\methodReturningObject.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\obj\Debug\net5.0\methodReturningObject.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\obj\Debug\net5.0\methodReturningObject.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\bin\Debug\net5.0\methodReturningObject.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\bin\Debug\net5.0\methodReturningObject.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\bin\Debug\net5.0\methodReturningObject.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\bin\Debug\net5.0\methodReturningObject.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\bin\Debug\net5.0\methodReturningObject.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\bin\Debug\net5.0\methodReturningObject.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\obj\Debug\net5.0\methodReturningObject.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\obj\Debug\net5.0\refint\methodReturningObject.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\obj\Debug\net5.0\methodReturningObject.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\obj\Debug\net5.0\methodReturningObject.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\methodReturningObject\obj\Debug\net5.0\ref\methodReturningObject.dll
