@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\obj\Debug\net5.0\sobrecargaMetodo.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\obj\Debug\net5.0\sobrecargaMetodo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\obj\Debug\net5.0\sobrecargaMetodo.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\obj\Debug\net5.0\sobrecargaMetodo.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\obj\Debug\net5.0\sobrecargaMetodo.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\bin\Debug\net5.0\sobrecargaMetodo.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\bin\Debug\net5.0\sobrecargaMetodo.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\bin\Debug\net5.0\sobrecargaMetodo.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\bin\Debug\net5.0\sobrecargaMetodo.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\bin\Debug\net5.0\sobrecargaMetodo.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\bin\Debug\net5.0\sobrecargaMetodo.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\obj\Debug\net5.0\sobrecargaMetodo.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\obj\Debug\net5.0\refint\sobrecargaMetodo.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\obj\Debug\net5.0\sobrecargaMetodo.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\obj\Debug\net5.0\sobrecargaMetodo.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\sobrecargaMetodo\obj\Debug\net5.0\ref\sobrecargaMetodo.dll
