@@ -1,0 +1,16 @@
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\obj\Debug\net5.0\fatorial.csproj.AssemblyReference.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\obj\Debug\net5.0\fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\obj\Debug\net5.0\fatorial.AssemblyInfoInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\obj\Debug\net5.0\fatorial.AssemblyInfo.cs
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\obj\Debug\net5.0\fatorial.csproj.CoreCompileInputs.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\bin\Debug\net5.0\fatorial.exe
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\bin\Debug\net5.0\fatorial.deps.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\bin\Debug\net5.0\fatorial.runtimeconfig.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\bin\Debug\net5.0\fatorial.runtimeconfig.dev.json
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\bin\Debug\net5.0\fatorial.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\bin\Debug\net5.0\fatorial.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\obj\Debug\net5.0\fatorial.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\obj\Debug\net5.0\refint\fatorial.dll
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\obj\Debug\net5.0\fatorial.pdb
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\obj\Debug\net5.0\fatorial.genruntimeconfig.cache
+D:\Downloads\Estudos\Csharp#\ExerciciosC#\fatorial\obj\Debug\net5.0\ref\fatorial.dll

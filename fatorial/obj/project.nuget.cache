@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hTnfzQh2+PaSOOqj/wMK2dxXwkyqjwmk3CaG0D2c5WKakniLAdnseS3lYRR+u10PP8RVaMy7960sTFPM2MYCFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Estudos\\Csharp#\\ExerciciosC#\\fatorial\\fatorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rveig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
